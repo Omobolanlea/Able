@@ -82,3 +82,12 @@ ansible-playbook project.yml -i hostfile.ini
 cd project
 . env_flask/bin/activate
 python3 proj.py
+ls
+cd project
+ls
+cd ~
+git add .
+git status
+git commit -m "updated file"
+git push -u origin main
+ansible-playbook project.yml -i hostfile.ini

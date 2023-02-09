@@ -11,10 +11,12 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:wq!
-|2,0,1675803049,,"wq!"
 :q!
-|2,0,1675799018,,"q!"
+|2,0,1675919608,,"q!"
+:wq!
+|2,0,1675918884,,"wq!"
+:wq1
+|2,0,1675915928,,"wq1"
 
 # Search String History (newest to oldest):
 
@@ -27,210 +29,277 @@
 # Registers:
 
 # File marks:
-'0  3  10  ~/project.yml
-|4,48,3,10,1675803049,"~/project.yml"
-'1  48  2  ~/project.yml
-|4,49,48,2,1675799154,"~/project.yml"
-'2  48  2  ~/project.yml
-|4,50,48,2,1675799154,"~/project.yml"
-'3  1  0  ~/project/project.yml
-|4,51,1,0,1675799018,"~/project/project.yml"
-'4  7  23  ~/project/proj.py
-|4,52,7,23,1675572086,"~/project/proj.py"
-'5  3  91  ~/hostfile.ini
-|4,53,3,91,1675558429,"~/hostfile.ini"
-'6  3  49  ~/hostfile.ini
-|4,54,3,49,1675558048,"~/hostfile.ini"
+'0  3  27  ~/hosts.ini
+|4,48,3,27,1675919608,"~/hosts.ini"
+'1  26  55  ~/project.yml
+|4,49,26,55,1675918884,"~/project.yml"
+'2  3  27  ~/hosts.ini
+|4,50,3,27,1675918759,"~/hosts.ini"
+'3  7  22  ~/app.py
+|4,51,7,22,1675918505,"~/app.py"
+'4  7  23  ~/app.py
+|4,52,7,23,1675918120,"~/app.py"
+'5  26  55  ~/project.yml
+|4,53,26,55,1675916531,"~/project.yml"
+'6  26  55  ~/project.yml
+|4,54,26,55,1675916049,"~/project.yml"
+'7  26  55  ~/project.yml
+|4,55,26,55,1675916049,"~/project.yml"
+'8  26  55  ~/project.yml
+|4,56,26,55,1675915935,"~/project.yml"
+'9  26  55  ~/project.yml
+|4,57,26,55,1675915935,"~/project.yml"
 
 # Jumplist (newest first):
--'  3  10  ~/project.yml
-|4,39,3,10,1675803049,"~/project.yml"
--'  48  2  ~/project.yml
-|4,39,48,2,1675803020,"~/project.yml"
--'  48  2  ~/project.yml
-|4,39,48,2,1675799154,"~/project.yml"
--'  1  0  ~/project.yml
-|4,39,1,0,1675799096,"~/project.yml"
--'  1  0  ~/project.yml
-|4,39,1,0,1675799096,"~/project.yml"
--'  1  0  ~/project/project.yml
-|4,39,1,0,1675799018,"~/project/project.yml"
--'  1  0  ~/project/project.yml
-|4,39,1,0,1675799018,"~/project/project.yml"
--'  1  0  ~/project/project.yml
-|4,39,1,0,1675799018,"~/project/project.yml"
--'  1  0  ~/project/project.yml
-|4,39,1,0,1675799018,"~/project/project.yml"
--'  7  23  ~/project/proj.py
-|4,39,7,23,1675572086,"~/project/proj.py"
--'  7  23  ~/project/proj.py
-|4,39,7,23,1675572086,"~/project/proj.py"
--'  7  23  ~/project/proj.py
-|4,39,7,23,1675572086,"~/project/proj.py"
--'  7  23  ~/project/proj.py
-|4,39,7,23,1675572086,"~/project/proj.py"
--'  7  23  ~/project/proj.py
-|4,39,7,23,1675572086,"~/project/proj.py"
--'  7  23  ~/project/proj.py
-|4,39,7,23,1675572086,"~/project/proj.py"
--'  7  23  ~/project/proj.py
-|4,39,7,23,1675572086,"~/project/proj.py"
--'  7  23  ~/project/proj.py
-|4,39,7,23,1675572086,"~/project/proj.py"
--'  1  0  ~/project/proj.py
-|4,39,1,0,1675571823,"~/project/proj.py"
--'  1  0  ~/project/proj.py
-|4,39,1,0,1675571823,"~/project/proj.py"
--'  1  0  ~/project/proj.py
-|4,39,1,0,1675571823,"~/project/proj.py"
--'  1  0  ~/project/proj.py
-|4,39,1,0,1675571823,"~/project/proj.py"
--'  1  0  ~/project/proj.py
-|4,39,1,0,1675571823,"~/project/proj.py"
--'  1  0  ~/project/proj.py
-|4,39,1,0,1675571823,"~/project/proj.py"
--'  1  0  ~/project/proj.py
-|4,39,1,0,1675571823,"~/project/proj.py"
--'  1  0  ~/project/proj.py
-|4,39,1,0,1675571823,"~/project/proj.py"
--'  3  91  ~/hostfile.ini
-|4,39,3,91,1675558429,"~/hostfile.ini"
--'  3  91  ~/hostfile.ini
-|4,39,3,91,1675558429,"~/hostfile.ini"
--'  3  91  ~/hostfile.ini
-|4,39,3,91,1675558429,"~/hostfile.ini"
--'  3  91  ~/hostfile.ini
-|4,39,3,91,1675558429,"~/hostfile.ini"
--'  3  91  ~/hostfile.ini
-|4,39,3,91,1675558429,"~/hostfile.ini"
--'  3  91  ~/hostfile.ini
-|4,39,3,91,1675558429,"~/hostfile.ini"
--'  3  91  ~/hostfile.ini
-|4,39,3,91,1675558429,"~/hostfile.ini"
--'  3  91  ~/hostfile.ini
-|4,39,3,91,1675558429,"~/hostfile.ini"
--'  3  91  ~/hostfile.ini
-|4,39,3,91,1675558429,"~/hostfile.ini"
--'  3  91  ~/hostfile.ini
-|4,39,3,91,1675558429,"~/hostfile.ini"
--'  3  91  ~/hostfile.ini
-|4,39,3,91,1675558429,"~/hostfile.ini"
--'  3  91  ~/hostfile.ini
-|4,39,3,91,1675558429,"~/hostfile.ini"
--'  3  91  ~/hostfile.ini
-|4,39,3,91,1675558429,"~/hostfile.ini"
--'  3  91  ~/hostfile.ini
-|4,39,3,91,1675558429,"~/hostfile.ini"
--'  3  91  ~/hostfile.ini
-|4,39,3,91,1675558429,"~/hostfile.ini"
--'  3  91  ~/hostfile.ini
-|4,39,3,91,1675558429,"~/hostfile.ini"
--'  3  49  ~/hostfile.ini
-|4,39,3,49,1675558048,"~/hostfile.ini"
--'  3  49  ~/hostfile.ini
-|4,39,3,49,1675558048,"~/hostfile.ini"
--'  3  49  ~/hostfile.ini
-|4,39,3,49,1675558048,"~/hostfile.ini"
--'  3  49  ~/hostfile.ini
-|4,39,3,49,1675558048,"~/hostfile.ini"
--'  3  49  ~/hostfile.ini
-|4,39,3,49,1675558048,"~/hostfile.ini"
--'  3  49  ~/hostfile.ini
-|4,39,3,49,1675558048,"~/hostfile.ini"
--'  3  49  ~/hostfile.ini
-|4,39,3,49,1675558048,"~/hostfile.ini"
--'  3  49  ~/hostfile.ini
-|4,39,3,49,1675558048,"~/hostfile.ini"
--'  3  49  ~/hostfile.ini
-|4,39,3,49,1675558048,"~/hostfile.ini"
--'  3  49  ~/hostfile.ini
-|4,39,3,49,1675558048,"~/hostfile.ini"
--'  3  49  ~/hostfile.ini
-|4,39,3,49,1675558048,"~/hostfile.ini"
--'  3  49  ~/hostfile.ini
-|4,39,3,49,1675558048,"~/hostfile.ini"
--'  3  49  ~/hostfile.ini
-|4,39,3,49,1675558048,"~/hostfile.ini"
--'  3  49  ~/hostfile.ini
-|4,39,3,49,1675558048,"~/hostfile.ini"
--'  3  49  ~/hostfile.ini
-|4,39,3,49,1675558048,"~/hostfile.ini"
--'  3  49  ~/hostfile.ini
-|4,39,3,49,1675558048,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
--'  1  0  ~/hostfile.ini
-|4,39,1,0,1675557723,"~/hostfile.ini"
+-'  3  27  ~/hosts.ini
+|4,39,3,27,1675919608,"~/hosts.ini"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675918884,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675918884,"~/project.yml"
+-'  3  27  ~/hosts.ini
+|4,39,3,27,1675918759,"~/hosts.ini"
+-'  3  27  ~/hosts.ini
+|4,39,3,27,1675918759,"~/hosts.ini"
+-'  7  22  ~/app.py
+|4,39,7,22,1675918505,"~/app.py"
+-'  7  22  ~/app.py
+|4,39,7,22,1675918505,"~/app.py"
+-'  7  22  ~/app.py
+|4,39,7,22,1675918505,"~/app.py"
+-'  7  22  ~/app.py
+|4,39,7,22,1675918505,"~/app.py"
+-'  7  22  ~/app.py
+|4,39,7,22,1675918505,"~/app.py"
+-'  7  22  ~/app.py
+|4,39,7,22,1675918505,"~/app.py"
+-'  7  22  ~/app.py
+|4,39,7,22,1675918505,"~/app.py"
+-'  7  22  ~/app.py
+|4,39,7,22,1675918505,"~/app.py"
+-'  7  23  ~/app.py
+|4,39,7,23,1675918120,"~/app.py"
+-'  7  23  ~/app.py
+|4,39,7,23,1675918120,"~/app.py"
+-'  7  23  ~/app.py
+|4,39,7,23,1675918120,"~/app.py"
+-'  7  23  ~/app.py
+|4,39,7,23,1675918120,"~/app.py"
+-'  7  23  ~/app.py
+|4,39,7,23,1675918120,"~/app.py"
+-'  7  23  ~/app.py
+|4,39,7,23,1675918120,"~/app.py"
+-'  7  23  ~/app.py
+|4,39,7,23,1675918120,"~/app.py"
+-'  7  23  ~/app.py
+|4,39,7,23,1675918120,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1675918093,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1675918093,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1675918093,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1675918093,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1675918093,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1675918093,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1675918093,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1675918093,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1675918093,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1675918093,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1675918093,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1675918093,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1675918093,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1675918093,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1675918093,"~/app.py"
+-'  1  0  ~/app.py
+|4,39,1,0,1675918093,"~/app.py"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916531,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916531,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916531,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916531,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916531,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916531,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916531,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916531,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916531,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916531,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916531,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916531,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916531,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916531,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916531,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916531,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916049,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916049,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916049,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916049,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916049,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916049,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916049,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916049,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916049,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916049,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916049,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916049,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916049,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916049,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916049,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675916049,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675915935,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675915935,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675915935,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675915935,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675915935,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675915935,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675915935,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675915935,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675915935,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675915935,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675915935,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675915935,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675915935,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675915935,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675915935,"~/project.yml"
+-'  26  55  ~/project.yml
+|4,39,26,55,1675915935,"~/project.yml"
+-'  43  2  ~/project.yml
+|4,39,43,2,1675915828,"~/project.yml"
+-'  43  2  ~/project.yml
+|4,39,43,2,1675915828,"~/project.yml"
+-'  43  2  ~/project.yml
+|4,39,43,2,1675915828,"~/project.yml"
+-'  43  2  ~/project.yml
+|4,39,43,2,1675915828,"~/project.yml"
+-'  43  2  ~/project.yml
+|4,39,43,2,1675915828,"~/project.yml"
+-'  43  2  ~/project.yml
+|4,39,43,2,1675915828,"~/project.yml"
+-'  43  2  ~/project.yml
+|4,39,43,2,1675915828,"~/project.yml"
+-'  43  2  ~/project.yml
+|4,39,43,2,1675915828,"~/project.yml"
+-'  43  2  ~/project.yml
+|4,39,43,2,1675915828,"~/project.yml"
+-'  43  2  ~/project.yml
+|4,39,43,2,1675915828,"~/project.yml"
+-'  43  2  ~/project.yml
+|4,39,43,2,1675915828,"~/project.yml"
+-'  43  2  ~/project.yml
+|4,39,43,2,1675915828,"~/project.yml"
+-'  43  2  ~/project.yml
+|4,39,43,2,1675915828,"~/project.yml"
+-'  43  2  ~/project.yml
+|4,39,43,2,1675915828,"~/project.yml"
+-'  43  2  ~/project.yml
+|4,39,43,2,1675915828,"~/project.yml"
 
 # History of marks within files (newest to oldest):
 
+> ~/hosts.ini
+	*	1675919603	0
+	"	3	27
+	^	3	28
+	.	3	27
+	+	4	0
+	+	2	1
+	+	3	0
+	+	2	46
+	+	3	27
+
 > ~/project.yml
-	*	1675803042	0
-	"	3	10
-	^	3	11
-	.	3	10
-	+	48	2
-	+	3	10
+	*	1675918877	0
+	"	26	55
+	^	26	56
+	.	26	55
+	+	1	1014
+	+	1	48
+	+	1	0
+	+	43	2
+	+	26	55
+
+> ~/app.py
+	*	1675918499	0
+	"	7	22
+	^	7	23
+	.	7	23
+	+	7	23
+
+> ~/hostfile.ini
+	*	1675914484	0
+	"	3	90
+	^	3	91
+	.	3	91
+	+	1	4
+	+	3	98
+	+	2	2
+	+	3	3
+	+	2	29
+	+	3	97
+	+	2	49
+	+	3	49
+	+	2	49
+	+	3	49
+	+	2	91
+	+	3	91
 
 > ~/project/project.yml
 	*	1675799007	0
@@ -249,21 +318,3 @@
 	^	7	24
 	.	7	23
 	+	7	23
-
-> ~/hostfile.ini
-	*	1675558424	0
-	"	3	91
-	^	3	92
-	.	3	91
-	+	1	4
-	+	3	98
-	+	2	2
-	+	3	3
-	+	2	29
-	+	3	97
-	+	2	49
-	+	3	49
-	+	2	49
-	+	3	49
-	+	2	91
-	+	3	91
